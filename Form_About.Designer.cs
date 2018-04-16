@@ -70,7 +70,7 @@
             this.linkLabel2.Size = new System.Drawing.Size(107, 12);
             this.linkLabel2.TabIndex = 4;
             this.linkLabel2.TabStop = true;
-            this.linkLabel2.Text = "8090浏览器论坛(&F)";
+            this.linkLabel2.Text = "so浏览器论坛(&F)";
             this.linkLabel2.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel2_LinkClicked);
             // 
             // pictureBox1
@@ -92,7 +92,7 @@
             this.linkLabel1.Size = new System.Drawing.Size(107, 12);
             this.linkLabel1.TabIndex = 2;
             this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "8090浏览器主站(&H)";
+            this.linkLabel1.Text = "so浏览器主站(&H)";
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
             // label1
@@ -103,7 +103,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(199, 84);
             this.label1.TabIndex = 1;
-            this.label1.Text = "8090浏览器 4.2正式版\r\n\r\n文件版本：4.2.3.6\r\n8090中心";
+            this.label1.Text = "so浏览器 4.2正式版\r\n\r\n文件版本：4.2.3.6\r\nso中心";
             // 
             // Form_About
             // 
@@ -120,7 +120,7 @@
             this.MinimizeBox = false;
             this.Name = "Form_About";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "关于8090浏览器";
+            this.Text = "关于so浏览器";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
