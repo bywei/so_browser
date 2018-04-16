@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\8090\|C:\Inetpub\wwwroot\|ftp://60.191.239.203/setup/|E:\浏览器-网站端\Setup\|ftp://31kk.meibu.com/</PublishUrlHistory>
+    <InstallUrlHistory>http://8090.8090.so/setup/|http://127.0.0.1/|http://31kk.net/|http://31kk.meibu.com/8090Explorer/setup/|http://31kk.meibu.com/</InstallUrlHistory>
+    <SupportUrlHistory>http://8090.8090.so/|http://31kk.net/|http://8090.8090.so/setup/|http://31kk.meibu.com/8090Explorer/|http://31kk.meibu.com/</SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>zh-CN</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+    <ErrorReportUrlHistory />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+  </PropertyGroup>
+</Project>

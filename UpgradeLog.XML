@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="浏览器">
+</Property><Property Name="解决方案文件" Value="F:\webProject\浏览器\浏览器.sln">
+</Property><Property Name="Date" Value="2012年2月20日">
+</Property><Property Name="Time" Value="17:06:10">
+</Property></Properties><Event ErrorLevel="0" Project="浏览器" Source="浏览器.csproj" Description="项目文件已成功备份为 F:\webProject\浏览器\Backup\浏览器.csproj">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="浏览器.csproj.user" Description="项目用户文件成功备份为 F:\webProject\浏览器\Backup\浏览器.csproj.user">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="db1DataSet.Designer.cs" Description="文件已成功备份为 F:\webProject\浏览器\Backup\db1DataSet.Designer.cs">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="FavForlder.cs" Description="文件已成功备份为 F:\webProject\浏览器\Backup\FavForlder.cs">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="Form_About.cs" Description="文件已成功备份为 F:\webProject\浏览器\Backup\Form_About.cs">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="Form_About.Designer.cs" Description="文件已成功备份为 F:\webProject\浏览器\Backup\Form_About.Designer.cs">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="Form_FavForlder.cs" Description="文件已成功备份为 F:\webProject\浏览器\Backup\Form_FavForlder.cs">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="Form_FavForlder.Designer.cs" Description="文件已成功备份为 F:\webProject\浏览器\Backup\Form_FavForlder.Designer.cs">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="Form_FavSiteurl.cs" Description="文件已成功备份为 F:\webProject\浏览器\Backup\Form_FavSiteurl.cs">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="Form_FavSiteurl.Designer.cs" Description="文件已成功备份为 F:\webProject\浏览器\Backup\Form_FavSiteurl.Designer.cs">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="Form_Main.cs" Description="文件已成功备份为 F:\webProject\浏览器\Backup\Form_Main.cs">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="Form_Main.Designer.cs" Description="文件已成功备份为 F:\webProject\浏览器\Backup\Form_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="Form_Search.cs" Description="文件已成功备份为 F:\webProject\浏览器\Backup\Form_Search.cs">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="Form_Search.Designer.cs" Description="文件已成功备份为 F:\webProject\浏览器\Backup\Form_Search.Designer.cs">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="Mdb.cs" Description="文件已成功备份为 F:\webProject\浏览器\Backup\Mdb.cs">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="Program.cs" Description="文件已成功备份为 F:\webProject\浏览器\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="Properties\AssemblyInfo.cs" Description="文件已成功备份为 F:\webProject\浏览器\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="Properties\Resources.Designer.cs" Description="文件已成功备份为 F:\webProject\浏览器\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="Properties\Settings.Designer.cs" Description="文件已成功备份为 F:\webProject\浏览器\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="MyRegedit.cs" Description="文件已成功备份为 F:\webProject\浏览器\Backup\MyRegedit.cs">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="Regex.cs" Description="文件已成功备份为 F:\webProject\浏览器\Backup\Regex.cs">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="UrlHistory.cs" Description="文件已成功备份为 F:\webProject\浏览器\Backup\UrlHistory.cs">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="WebbrowserProperty.cs" Description="文件已成功备份为 F:\webProject\浏览器\Backup\WebbrowserProperty.cs">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="WinDll.cs" Description="文件已成功备份为 F:\webProject\浏览器\Backup\WinDll.cs">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="app.config" Description="文件已成功备份为 F:\webProject\浏览器\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="db1DataSet.xsc" Description="文件已成功备份为 F:\webProject\浏览器\Backup\db1DataSet.xsc">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="db1DataSet.xsd" Description="文件已成功备份为 F:\webProject\浏览器\Backup\db1DataSet.xsd">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="db1DataSet.xss" Description="文件已成功备份为 F:\webProject\浏览器\Backup\db1DataSet.xss">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="Properties\Settings.settings" Description="文件已成功备份为 F:\webProject\浏览器\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="浏览器_TemporaryKey.pfx" Description="文件已成功备份为 F:\webProject\浏览器\Backup\浏览器_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="Resources\logo.png" Description="文件已成功备份为 F:\webProject\浏览器\Backup\Resources\logo.png">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="baidu.png" Description="文件已成功备份为 F:\webProject\浏览器\Backup\baidu.png">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="db1.mdb" Description="文件已成功备份为 F:\webProject\浏览器\Backup\db1.mdb">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="logo.ico" Description="文件已成功备份为 F:\webProject\浏览器\Backup\logo.ico">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="skin.ssk" Description="文件已成功备份为 F:\webProject\浏览器\Backup\skin.ssk">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="Form_About.resx" Description="文件已成功备份为 F:\webProject\浏览器\Backup\Form_About.resx">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="Form_FavForlder.resx" Description="文件已成功备份为 F:\webProject\浏览器\Backup\Form_FavForlder.resx">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="Form_FavSiteurl.resx" Description="文件已成功备份为 F:\webProject\浏览器\Backup\Form_FavSiteurl.resx">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="Form_Main.resx" Description="文件已成功备份为 F:\webProject\浏览器\Backup\Form_Main.resx">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="Form_Search.resx" Description="文件已成功备份为 F:\webProject\浏览器\Backup\Form_Search.resx">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="Properties\Resources.resx" Description="文件已成功备份为 F:\webProject\浏览器\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="Properties\app.manifest" Description="文件已成功备份为 F:\webProject\浏览器\Backup\Properties\app.manifest">
+</Event><Event ErrorLevel="1" Project="浏览器" Source="浏览器.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="浏览器.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="浏览器" Source="浏览器.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="浏览器" Source="浏览器.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
