@@ -3,14 +3,7 @@
 
 ![screenshot](https://github.com/bywei/so_browser/raw/master/Screenshots/demo.png)
 
-对比Chrome(本质上是TattyUI做的近似CSS实现)
-![screenshot](https://raw.githubusercontent.com/BentleyBlanks/TattyUI/master/screenshots/2.png)
-
 本UI框架底层渲染框架采用[nanovg](https://github.com/memononen/nanovg),采用类似浏览器WebKit的做法，将UI的样式与业务逻辑分离。本质上是一个简易的浏览器内核实现。
-
-TattyUI第一个较为成熟的production级的产品将会是为 [WIP2D](https://github.com/wubugui/WIP) 2D游戏引擎制作```编辑器```，尽请期待。
-
-底层[CSS解析器](https://github.com/BentleyBlanks/t2CSSPareser)为使用Flex+Bison，借鉴[Webkit](https://www.webkit.org/)与[W3C](http://www.w3.org/)中CSS2.0实现，详见[t2CSSParser](https://github.com/BentleyBlanks/t2CSSPareser)介绍。
 
 # 依赖项说明
 1.[GLFW](http://www.glfw.org/) ver 3.11
@@ -27,9 +20,9 @@ TattyUI第一个较为成熟的production级的产品将会是为 [WIP2D](https:
 > 目前依赖项静态库为直接给出，可以根据平台需要以及Debug/Release模式的不同自行更换
 
 # 构建说明
-1.TattyUI采用CMake做跨平台搭建工作,支持Windows,OSX(OSX下的静态库配置仍需手动完成)等
+1.支持Windows
 
-2.假设您构建在新文件夹build中，那么仅需在IDE中设置包含```../TattyUI```即可
+2.假设您构建在新文件夹build中，那么仅需在IDE中设置包含```../so_browser```即可
 
 3.可自行构建```resources```文件夹用于放置资源
 
@@ -48,31 +41,7 @@ t2Div *div2 = divController["div2"];
 ```
 > 详情可见example
 
-3.TattyUI较大的采用C++11标准，在回调函数的选择上使用```std::fucntion```从而支持成员函数，函数指针，Lambda表达式等，以最大的可能模拟浏览器的样式但采用本地矢量渲染。
-> 例如
-
-```cpp
-// 以下回调函数都使用C++11支持的标准Lambda表达式
-    root.mouseMovedIn = [](int x, int y, int px, int py)
-    {
-        t2Log("Root MovedIn\n");
-    };
-
-    root.mouseMovedOut = [](int x, int y, int px, int py)
-    {
-        t2Log("Root MovedOut\n");
-    };
-
-    div1.mouseMovedIn = [](int x, int y, int px, int py)
-    {
-        t2Log("Div1 MovedIn\n");
-    };
-
-    div1.mouseMovedOut = [](int x, int y, int px, int py)
-    {
-        t2Log("Div1 MovedOut\n");
-    };
-```
+3.较大的采用C#标准，在回调函数的选择上使用```std::fucntion```从而支持成员函数，函数指针，Lambda表达式等，以最大的可能模拟浏览器的样式但采用本地矢量渲染。
 
 4.CSS解析部分支持大部分CSS2.0语法，部分未支持的语法规则已在[t2CSSParser](https://github.com/BentleyBlanks/t2CSSPareser)简介中给出
 
@@ -106,18 +75,18 @@ color: #ffffff;
 
 # 版本说明
 ```
-TattyUI ver 0.0.7 中感谢[ccss](https://github.com/jdeng/ccss)给我提供了非常好的使用正则表达式解析CSS的案例。
+SoBrowser ver 1.0.0 中感谢[ccss](https://github.com/jdeng/ccss)给我提供了非常好的使用正则表达式解析CSS的案例。
 
-TattyUI ver 0.0.3 之前采用XML+Json+Lua的脚本配合
+SoBrowser ver 2.0.1 之前采用XML+Json+Lua的脚本配合
 
-TattyUI ver 0.0.4 之后直接采用HTML+CSS+Lua的脚本
+SoBrowser ver 2.0.4 之后直接采用HTML+CSS+Lua的脚本
 ```
 ## 关于作者
-```cpp
-int 官某某 = "Bingo";
 
-char[] 个人博客 = "http://bentleyblanks.github.io";
-```
+bywei = 程序员百味
+
+个人博客 = "http://www.bywei.cn"
+
 
 
 
