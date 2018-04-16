@@ -902,7 +902,7 @@ namespace 浏览器
             // 
             this.关于AToolStripMenuItem.Name = "关于AToolStripMenuItem";
             this.关于AToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
-            this.关于AToolStripMenuItem.Text = "关于 8090浏览器(&A)";
+            this.关于AToolStripMenuItem.Text = "关于 so浏览器(&A)";
             this.关于AToolStripMenuItem.Click += new System.EventHandler(this.关于AToolStripMenuItem_Click);
             // 
             // toolStrip2
@@ -1303,7 +1303,7 @@ namespace 浏览器
             this.MinimumSize = new System.Drawing.Size(300, 200);
             this.Name = "Form_Main";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "8090浏览器 2011 正式版";
+            this.Text = "so浏览器 2011 正式版";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.toolStrip1.ResumeLayout(false);

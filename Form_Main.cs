@@ -285,7 +285,7 @@ namespace 浏览器
                     //设置标题和地址
                     if (e.Clicks != -1)
                     {
-                        Text = WebBrowserProperty.frontProperty.siteTitle + " - 8090浏览器 2011 正式版";
+                        Text = WebBrowserProperty.frontProperty.siteTitle + " - so浏览器 2011 正式版";
                         toolStripComboBox1.Text = WebBrowserProperty.frontProperty.webBrowser.LocationURL;
                         toolStripButton1.Enabled = 后退BToolStripMenuItem.Enabled = WebBrowserProperty.frontProperty.canBack;
                         toolStripButton2.Enabled = 前进FToolStripMenuItem.Enabled = WebBrowserProperty.frontProperty.canForward;
@@ -328,7 +328,7 @@ namespace 浏览器
             property.toolStripButton.ToolTipText = e.text;
             if (webBrowser == WebBrowserProperty.frontProperty.webBrowser)
             {
-                Text = e.text + " - 8090浏览器 2011 正式版";
+                Text = e.text + " - so浏览器 2011 正式版";
                 toolStripComboBox1.Text = webBrowser.LocationURL;
             }
         }
@@ -776,7 +776,7 @@ namespace 浏览器
 
         private void 检查更新ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            WebBrowserProperty.frontProperty.webBrowser.Navigate("http://8090.8090.so/setup/");
+            WebBrowserProperty.frontProperty.webBrowser.Navigate("http://so.so.so/setup/");
         }
 
         private void 皮肤还原RToolStripMenuItem_Click(object sender, EventArgs e)
@@ -788,7 +788,7 @@ namespace 浏览器
 
         private void 浏览皮肤LToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            WebBrowserProperty.frontProperty.webBrowser.Navigate("http://8090.8090.so/skins.aspx");
+            WebBrowserProperty.frontProperty.webBrowser.Navigate("http://so.so.so/skins.aspx");
         }
 
         private void 载入皮肤LToolStripMenuItem_Click(object sender, EventArgs e)
@@ -892,7 +892,7 @@ namespace 浏览器
 
         private void toolStripButton8_Click(object sender, EventArgs e)
         {
-            WebBrowserProperty.frontProperty.webBrowser.Navigate("http://www.8090.so/试用版暂不能访问");
+            WebBrowserProperty.frontProperty.webBrowser.Navigate("http://www.so.so/试用版暂不能访问");
         }
 
         private void toolStripButton10_Click(object sender, EventArgs e)

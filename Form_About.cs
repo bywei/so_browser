@@ -23,12 +23,12 @@ namespace 浏览器
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process.Start("IExplore.exe","http://www.8090.so");
+            Process.Start("IExplore.exe","http://www.so.so");
         }
 
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process.Start("IExplore.exe", "http://bbs.8090.so");
+            Process.Start("IExplore.exe", "http://bbs.so.so");
         }
     }
 }

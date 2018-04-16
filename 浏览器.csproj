@@ -9,7 +9,7 @@
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>浏览器</RootNamespace>
-    <AssemblyName>8090Explorer</AssemblyName>
+    <AssemblyName>soExplorer</AssemblyName>
     <ApplicationIcon>logo.ico</ApplicationIcon>
     <ManifestCertificateThumbprint>A159F848DA9582D3813F1258B2D07D15C2FDF183</ManifestCertificateThumbprint>
     <ManifestKeyFile>浏览器_TemporaryKey.pfx</ManifestKeyFile>
@@ -24,7 +24,7 @@
     <UpgradeBackupLocation>
     </UpgradeBackupLocation>
     <OldToolsVersion>2.0</OldToolsVersion>
-    <PublishUrl>C:\8090\</PublishUrl>
+    <PublishUrl>C:\so\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
@@ -34,9 +34,9 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <SupportUrl>http://8090.8090.so/</SupportUrl>
+    <SupportUrl>http://so.so.so/</SupportUrl>
     <TargetCulture>zh-CHS</TargetCulture>
-    <ProductName>8090浏览器</ProductName>
+    <ProductName>so浏览器</ProductName>
     <PublisherName>微风软件</PublisherName>
     <WebPage>index.htm</WebPage>
     <ApplicationRevision>82</ApplicationRevision>
@@ -65,7 +65,7 @@
   <ItemGroup>
     <Reference Include="IrisSkin2, Version=2006.3.22.45, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\8090浏览器\IrisSkin2.dll</HintPath>
+      <HintPath>..\..\so浏览器\IrisSkin2.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
