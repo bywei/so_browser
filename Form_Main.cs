@@ -304,7 +304,7 @@ namespace 浏览器
 
         private void toolStrip2_SizeChanged(object sender, EventArgs e)
         {
-            toolStripComboBox1.Size = new Size(toolStrip2.Width - 530, 25);
+            toolStripComboBox1.Size = new Size(toolStrip2.Width - 369, 25);
         }
 
         private void toolStripButton7_Click(object sender, EventArgs e)
