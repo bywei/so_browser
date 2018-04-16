@@ -1,7 +1,7 @@
 # so browser
 使用C#实现的一套浏览器系统,核心基于IE内核浏览器
 
-![screenshot](https://raw.githubusercontent.com/BentleyBlanks/TattyUI/master/screenshots/1.png)
+![screenshot](https://raw.githubusercontent.com/bywei/so_browser/master/screenshots/demo.png)
 
 对比Chrome(本质上是TattyUI做的近似CSS实现)
 ![screenshot](https://raw.githubusercontent.com/BentleyBlanks/TattyUI/master/screenshots/2.png)
